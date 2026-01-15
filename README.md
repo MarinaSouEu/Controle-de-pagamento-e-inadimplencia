@@ -46,6 +46,5 @@ Demonstrar conhecimentos em:
 
 ---
 
-## 👤 Autor
-**Marina Rodrigues**  
+
 
